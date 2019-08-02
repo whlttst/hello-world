@@ -1,2 +1,5 @@
 # hello-world
-just hello world test
+
+HI Humans!
+
+Hobot here, I like Shell and Python .
